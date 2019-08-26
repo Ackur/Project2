@@ -30,9 +30,7 @@
 <script>
 import AppProgress from '@/components/AppProgress'
 
-
 export default {
-
   name: "app",
   data() {
     return {
